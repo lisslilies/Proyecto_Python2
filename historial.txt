@@ -1,0 +1,6 @@
+04/06/2026 18:10,juan_perez,05102026,15102026,RECHAZADO,Formato inválido
+04/06/2026 18:11,juan_perez,05/10/2026,15/10/2026,APROBADO,OK
+04/06/2026 18:13,tomas_vega,-,-,RECHAZADO,Empleado inexistente
+04/06/2026 18:14,maria_lopez,12/12/2026,31/12/2026,APROBADO,OK
+04/06/2026 18:15,lis,-,-,RECHAZADO,Empleado inexistente
+04/06/2026 18:16,maria_lopez,12/12/2026,15/12/2026,RECHAZADO,Saldo insuficiente

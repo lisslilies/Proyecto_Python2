@@ -1,0 +1,2 @@
+Juan_Perez,9,05/10/2026-15/10/2026,Activo
+Maria_Lopez,0,12/12/2026-31/12/2026,Activo
